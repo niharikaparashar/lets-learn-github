@@ -1,0 +1,3 @@
+------first check git version to see if the git is installed successfully!!!-------------
+0) git --version
+ 
